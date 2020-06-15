@@ -1,6 +1,6 @@
 body
 {
-    background:blue;
+    background:rgb(5, 5, 65);
 }
 
 .container
@@ -12,5 +12,5 @@ body
 
 .container > a
 {
-    background-color:darkblue;
+    background-color:rgb(124, 124, 189);
 }
