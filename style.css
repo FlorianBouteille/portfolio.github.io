@@ -18,14 +18,16 @@ h1:hover
 .container
 {
     display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    align-items:space-evenly;
 }
 
-div.container > div
+div.container > a
 {
-    border:1px solid black;
-    width:50px;
-    height:50px;
-    background:blue;
+    width:20%;
+    height:20%;
+    background:white;
 }
 
 canvas
