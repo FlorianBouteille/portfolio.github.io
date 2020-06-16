@@ -1,37 +1,10 @@
-h1, h2
+input
 {
-    text-align: center;
+  opacity:0.05;
+  transition:opacity .8s;
 }
 
-h1
+input:hover
 {
-    margin:0;
-    padding:10;
-    color: pink;
-}
-
-h1:hover
-{
-    color:blue;
-}
-
-.container
-{
-    display:flex;
-    flex-wrap:wrap;
-    justify-content:space-evenly;
-    align-items:space-evenly;
-}
-
-div.container > a
-{
-    width:20%;
-    height:20%;
-    background:white;
-}
-
-canvas
-{
-    position:absolute;
-    z-index:-1;
+  opacity:0.8;
 }
