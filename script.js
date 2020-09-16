@@ -23,7 +23,7 @@ projet.show();
 let projet2 = new Project("Fractal Tree", "A visualization of recursion through a cool tree", "tree.png", "https://florianbouteille.github.io/fractaltree.github.io/");
 projet2.show();
 
-let perlinlove = new Project("Perlin Love", "Shapes moving according to pseudo-random values or 'Perlin Noise'", "perlin.PNG", "https://florianbouteille.github.io/ichbineinperliner.github.io/");
+let perlinlove = new Project("Perlin Moves", "Shapes moving according to pseudo-random values or 'Perlin Noise'", "perlin.PNG", "https://florianbouteille.github.io/ichbineinperliner.github.io/");
 perlinlove.show();
 
 let colorFlakes = new Project("ColorFlakes", "Draw with your mouse !", "snowflake.png", "https://florianbouteille.github.io/colorflakes.github.io/");

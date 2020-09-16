@@ -33,6 +33,7 @@ div
   min-width:300px;
   max-width: 300px;
   background:#3b444b;
+  margin:10px;
 }
 
 div:hover
@@ -43,10 +44,22 @@ div:hover
 
 h2
 {
-  font-family:"Roboto Condensed", sans-serif;
+  font-family:"Roboto", sans-serif;
 }
 h4
 {
   font-weight:200;
   font-family: "Nunito", sans-serif;
+}
+
+a, a:visited, a:active
+{
+  font-family: "Roboto Condensed", sans-serif;
+  color:white;
+  text-decoration:none;
+}
+
+a:hover
+{
+  text-decoration:underline;
 }
