@@ -23,7 +23,7 @@ projet.show();
 let projet2 = new Project("Fractal Tree", "A visualization of recursion through a cool tree", "tree.png", "https://florianbouteille.github.io/fractaltree.github.io/");
 projet2.show();
 
-let perlinlove = new Project("Perlin Moves", "Shapes moving according to pseudo-random values or 'Perlin Noise'", "perlin.PNG", "https://florianbouteille.github.io/ichbineinperliner.github.io/");
+let perlinlove = new Project("Perlin Moves", "Shapes moving according to pseudo-random values or 'Perlin Noise' (click center for fun)", "perlin.PNG", "https://florianbouteille.github.io/ichbineinperliner.github.io/");
 perlinlove.show();
 
 let physics101 = new Project("Physics 101", "A minimalistic physics engine (ZSQD, not online)", "jump.PNG", "https://github.com/adatechschool/sandbox/tree/master/jump");
@@ -37,6 +37,9 @@ fallingShapes.show();
 
 let newtonLove = new Project("Newton Love", "Physics is cool", "newton.PNG", "https://florianbouteille.github.io/newtonsummerlove.github.io/");
 newtonLove.show();
+
+let theRain = new Project("The Rain", "More physics ! Test the limits of your browser...", "rain.PNG", "https://florianbouteille.github.io/therain.gitthub.io/");
+theRain.show();
 
 let codeWars = new Project("Code Wars", "Katas and training with Codewars, mostly in Pythton", "codewars.png", "https://www.codewars.com/users/FlorianBouteille");
 codeWars.show();
