@@ -26,6 +26,9 @@ projet2.show();
 let perlinlove = new Project("Perlin Moves", "Shapes moving according to pseudo-random values or 'Perlin Noise'", "perlin.PNG", "https://florianbouteille.github.io/ichbineinperliner.github.io/");
 perlinlove.show();
 
+let physics101 = new Project("Physics 101", "A minimalistic physics engine (ZSQD, not online)", "jump.PNG", "https://github.com/adatechschool/sandbox/tree/master/jump");
+physics101.show();
+
 let colorFlakes = new Project("ColorFlakes", "Draw with your mouse !", "snowflake.png", "https://florianbouteille.github.io/colorflakes.github.io/");
 colorFlakes.show();
 
