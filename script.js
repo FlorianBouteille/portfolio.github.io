@@ -34,3 +34,9 @@ fallingShapes.show();
 
 let newtonLove = new Project("Newton Love", "Physics is cool", "newton.PNG", "https://florianbouteille.github.io/newtonsummerlove.github.io/");
 newtonLove.show();
+
+let codeWars = new Project("Code Wars", "Katas and training with Codewars, mostly in Pythton", "codewars.png", "https://www.codewars.com/users/FlorianBouteille");
+codeWars.show();
+
+let rubyGame = new Project("Ada Dungeon", "A command interpreter in ruby, in the form of an RPG game", "ruby.jpg", "https://github.com/adatechschool/sandbox/blob/master/BestGameEver.rb");
+rubyGame.show();
